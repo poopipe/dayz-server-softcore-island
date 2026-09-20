@@ -1,0 +1,430 @@
+{
+    "ClassName": "",
+    "Include": "",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": [
+		{
+			"ClassName": "CLOTHING",
+			"Include": "",
+			"Chance": 1.0,
+			"Quantity": {
+				"Min": 0.0,
+				"Max": 0.0
+			},
+			"Health": [],
+			"InventoryAttachments": [
+				{
+					"SlotName": "Body",
+					"Items": [
+						{
+							"ClassName": "HuntingJacket_Autumn",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Vest",
+					"Items": [
+						{
+							"ClassName": "HuntingVest",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Legs",
+					"Items": [
+						{
+							"ClassName": "HunterPants_Autumn",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Feet",
+					"Items": [
+						{
+							"ClassName": "HikingBootsLow_Black",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Headgear",
+					"Items": [
+						{
+							"ClassName": "CowboyHat_Brown",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Gloves",
+					"Items": [
+						{
+							"ClassName": "WorkingGloves_Black",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Armband",
+					"Items": [
+						{
+							"ClassName": "Armband_Red",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				}
+			],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": [
+				{
+					"ClassName": "WEAPON",
+					"Include": "",
+					"Chance": 1.0,
+					"Quantity": {
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					"Health": [],
+					"InventoryAttachments": [
+						{
+							"SlotName": "Shoulder",
+							"Items": [
+								{
+									"ClassName": "Mosin9130",
+									"Include": "",
+									"Chance": 1.0,
+									"Quantity": {
+										"Min": 0.0,
+										"Max": 0.0
+									},
+									"Health": [],
+									"InventoryAttachments": [
+										{
+											"SlotName": "",
+											"Items": [
+												{
+													"ClassName": "PUScopeOptic",
+													"Include": "",
+													"Chance": 0.5,
+													"Quantity": {
+														"Min": 0.0,
+														"Max": 0.0
+													},
+													"Health": [],
+													"InventoryAttachments": [],
+													"InventoryCargo": [],
+													"ConstructionPartsBuilt": [],
+													"Sets": []
+												}
+											]
+										}
+									],
+									"InventoryCargo": [],
+									"ConstructionPartsBuilt": [],
+									"Sets": []
+								}
+							]
+						}
+					],
+					"InventoryCargo": [
+						{
+							"ClassName": "Ammo_762x54",
+							"Include": "",
+							"Chance": 0.7,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "AmmoBox_762x54_20Rnd",
+							"Include": "",
+							"Chance": 0.15000000596046449,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				},
+				{
+					"ClassName": "WEAPON",
+					"Include": "",
+					"Chance": 1.0,
+					"Quantity": {
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					"Health": [],
+					"InventoryAttachments": [
+						{
+							"SlotName": "Shoulder",
+							"Items": [
+								{
+									"ClassName": "CZ527",
+									"Include": "",
+									"Chance": 1.0,
+									"Quantity": {
+										"Min": 0.0,
+										"Max": 0.0
+									},
+									"Health": [],
+									"InventoryAttachments": [
+										{
+											"SlotName": "",
+											"Items": [
+												{
+													"ClassName": "Mag_CZ527_5rnd",
+													"Include": "",
+													"Chance": 1.0,
+													"Quantity": {
+														"Min": 0.0,
+														"Max": 0.0
+													},
+													"Health": [],
+													"InventoryAttachments": [],
+													"InventoryCargo": [],
+													"ConstructionPartsBuilt": [],
+													"Sets": []
+												},
+												{
+													"ClassName": "HuntingOptic",
+													"Include": "",
+													"Chance": 0.5,
+													"Quantity": {
+														"Min": 0.0,
+														"Max": 0.0
+													},
+													"Health": [],
+													"InventoryAttachments": [],
+													"InventoryCargo": [],
+													"ConstructionPartsBuilt": [],
+													"Sets": []
+												},
+												{
+													"ClassName": "SportingOptic",
+													"Include": "",
+													"Chance": 0.5,
+													"Quantity": {
+														"Min": 0.0,
+														"Max": 0.0
+													},
+													"Health": [],
+													"InventoryAttachments": [
+																{
+																	"SlotName": "",
+																	"Items": [
+																		{
+																			"ClassName": "Battery9V",
+																			"Include": "",
+																			"Chance": 1.0,
+																			"Quantity": {
+																				"Min": 0.0,
+																				"Max": 0.0
+																			},
+																			"Health": [],
+																			"InventoryAttachments": [],
+																			"InventoryCargo": [],
+																			"ConstructionPartsBuilt": [],
+																			"Sets": []
+																		}
+																	]
+																}
+															],
+													"InventoryCargo": [],
+													"ConstructionPartsBuilt": [],
+													"Sets": []
+												}
+											]
+										}
+									],
+									"InventoryCargo": [],
+									"ConstructionPartsBuilt": [],
+									"Sets": []
+								}
+							]
+						}
+					],
+					"InventoryCargo": [
+						{
+							"ClassName": "Mag_CZ527_5rnd",
+							"Include": "",
+							"Chance": 0.5,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Mag_CZ527_5rnd",
+							"Include": "",
+							"Chance": 0.15000000596046449,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Ammo_762x39",
+							"Include": "",
+							"Chance": 0.15000000596046449,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				}
+			
+			]
+		}
+
+	]
+}

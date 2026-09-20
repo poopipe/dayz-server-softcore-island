@@ -1,0 +1,426 @@
+{
+    "ClassName": "",
+    "Include": "",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": [
+		{
+			"ClassName": "CLOTHING",
+			"Include": "",
+			"Chance": 1.0,
+			"Quantity": {
+				"Min": 0.0,
+				"Max": 0.0
+			},
+			"Health": [],
+			"InventoryAttachments": [
+				{
+					"SlotName": "Body",
+					"Items": [
+						{
+							"ClassName": "PoliceJacketOrel",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Vest",
+					"Items": [
+						{
+							"ClassName": "PoliceVest",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Legs",
+					"Items": [
+						{
+							"ClassName": "PolicePantsOrel",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Feet",
+					"Items": [
+						{
+							"ClassName": "CombatBoots_Black",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Eyes",
+					"Items": [
+						{
+							"ClassName": "AviatorGlasses",
+							"Include": "",
+							"Chance": 0.5,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.699999988079071,
+									"Max": 1.0,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Headgear",
+					"Items": [
+						{
+							"ClassName": "PoliceCap",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Gloves",
+					"Items": [
+						{
+							"ClassName": "TacticalGloves_Black",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [
+								{
+									"Min": 0.3,
+									"Max": 0.7,
+									"Zone": ""
+								}
+							],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				},
+				{
+					"SlotName": "Armband",
+					"Items": [
+						{
+							"ClassName": "Armband_Red",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					]
+				}
+			],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": [
+				{
+					"ClassName": "WEAPON",
+					"Include": "",
+					"Chance": 1.0,
+					"Quantity": {
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					"Health": [],
+					"InventoryAttachments": [
+						{
+							"SlotName": "Shoulder",
+							"Items": [
+								{
+									"ClassName": "Scout",
+									"Include": "",
+									"Chance": 1.0,
+									"Quantity": {
+										"Min": 0.0,
+										"Max": 0.0
+									},
+									"Health": [],
+									"InventoryAttachments": [
+										{
+											"SlotName": "",
+											"Items": [
+												{
+													"ClassName": "Mag_Scout_5Rnd",
+													"Include": "",
+													"Chance": 1.0,
+													"Quantity": {
+														"Min": 0.0,
+														"Max": 0.0
+													},
+													"Health": [],
+													"InventoryAttachments": [],
+													"InventoryCargo": [],
+													"ConstructionPartsBuilt": [],
+													"Sets": []
+												}
+											]
+										}
+									],
+									"InventoryCargo": [],
+									"ConstructionPartsBuilt": [],
+									"Sets": []
+								}
+							]
+						}
+					],
+					"InventoryCargo": [
+						{
+							"ClassName": "Mag_Scout_5Rnd",
+							"Include": "",
+							"Chance": 0.2,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				},
+				{
+					"ClassName": "WEAPON",
+					"Include": "",
+					"Chance": 1.0,
+					"Quantity": {
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					"Health": [],
+					"InventoryAttachments": [
+						{
+							"SlotName": "Shoulder",
+							"Items": [
+								{
+									"ClassName": "Mp133Shotgun",
+									"Include": "",
+									"Chance": 1.0,
+									"Quantity": {
+										"Min": 0.0,
+										"Max": 0.0
+									},
+									"Health": [],
+									"InventoryAttachments": [],
+									"InventoryCargo": [],
+									"ConstructionPartsBuilt": [],
+									"Sets": []
+								}
+							]
+						}
+					],
+					"InventoryCargo": [
+						{
+							"ClassName": "Ammo_12gaPellets",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						},
+						{
+							"ClassName": "Ammo_12gaPellets",
+							"Include": "",
+							"Chance": 0.3,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				},
+				{
+					"ClassName": "WEAPON",
+					"Include": "",
+					"Chance": 1.0,
+					"Quantity": {
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					"Health": [],
+					"InventoryAttachments": [
+						{
+							"SlotName": "Hands",
+							"Items": [
+								{
+									"ClassName": "Glock19",
+									"Include": "",
+									"Chance": 1.0,
+									"Quantity": {
+										"Min": 0.0,
+										"Max": 0.0
+									},
+									"Health": [],
+									"InventoryAttachments": [
+										{
+											"SlotName": "",
+											"Items": [
+												{
+													"ClassName": "Mag_Glock_15Rnd",
+													"Include": "",
+													"Chance": 1.0,
+													"Quantity": {
+														"Min": 0.0,
+														"Max": 0.0
+													},
+													"Health": [],
+													"InventoryAttachments": [],
+													"InventoryCargo": [],
+													"ConstructionPartsBuilt": [],
+													"Sets": []
+												}
+											]
+										}
+									],
+									"InventoryCargo": [],
+									"ConstructionPartsBuilt": [],
+									"Sets": []
+								}
+							]
+						}
+					],
+					"InventoryCargo": [
+						{
+							"ClassName": "Mag_Glock_15Rnd",
+							"Include": "",
+							"Chance": 1.0,
+							"Quantity": {
+								"Min": 0.0,
+								"Max": 0.0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						}
+					],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				}
+			]
+		}
+	]
+}
