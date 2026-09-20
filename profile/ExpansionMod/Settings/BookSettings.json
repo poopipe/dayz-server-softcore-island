@@ -3,7 +3,7 @@
     "EnableStatusTab": 0,
     "EnablePartyTab": 1,
     "EnableServerInfoTab": 0,
-    "EnableServerRulesTab": 0,
+    "EnableServerRulesTab": 1,
     "EnableTerritoryTab": 1,
     "EnableBookMenu": 1,
     "CreateBookmarks": 0,
@@ -15,23 +15,23 @@
             "Rules": [
                 {
                     "RuleParagraph": "1.1.",
-                    "RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo."
+                    "RuleText": "Don't be the bad kind of dick."
                 },
                 {
                     "RuleParagraph": "1.2.",
-                    "RuleText": "We reserve the right to exclude people from the server who share extremist or racist ideas or who clearly disturb the server harmony."
+                    "RuleText": "Beartraps are funny, blowing up fuel stations is funny, landmines are a gray area."
                 },
                 {
                     "RuleParagraph": "1.3.",
-                    "RuleText": "Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
+                    "RuleText": "What you and your friends do to each other is your own business."
                 },
                 {
                     "RuleParagraph": "1.4.",
-                    "RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
+                    "RuleText": "If you damage a player you become responsible for helping them."
                 },
                 {
                     "RuleParagraph": "1.5.",
-                    "RuleText": "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent exclusion."
+                    "RuleText": "Nobody is logging on to just to unstick your vehicle (hint: use a fireplace), find the weapon kit you dropped under your tent or otherwise deal with DayZ being DayZ."
                 }
             ]
         }
